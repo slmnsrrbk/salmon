@@ -1,0 +1,423 @@
+body {
+    font-family: 'Avenir Next Cyr';
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.clerfix:after {
+    content: "";
+    display: table;
+    width: 100%;
+    clear: both;
+}
+.left{
+    margin-left: px;
+}
+div {
+    box-sizing: border-box;
+}
+.bannerbg{
+    background: black;
+    height: 118px;
+    position: absolute;
+    width: 100%;
+
+}
+
+header {
+    height: 1000px;
+    background: url(img/bg.jpg) no-repeat center top / cover;
+}
+.phone{
+    border: white solid 1px;
+    padding:26px 35px;
+    border-radius: 6px;
+}
+.container {
+    width: 1355px;
+    margin-left: 140px;
+}
+.container2 {
+    width: 1355px;
+    margin-left: 289px;
+}
+
+.logo {
+    margin-top: 10px;
+    float: left;
+}
+
+
+nav {
+    float: right;
+
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    display: block;
+
+}
+
+.phone {
+    color: aqua;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 117px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.menu li a {
+    color: white;
+    text-transform: uppercase;
+}
+
+.titles {
+    text-align: center;
+    padding-top: 300px;
+
+
+}
+
+.titles__first {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 49px;
+
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 32px;
+}
+
+.button {
+    background: #A20000;
+    width: 500px;
+    color: white;
+    border-radius: 5px;
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    margin-top: 71px;
+    margin-bottom: 150px;
+    transition: 0.5s all ease;
+}
+
+.button:hover {
+    background: red;
+}
+
+.text1 {
+    float: left;
+    margin-left: 350px;
+}
+
+li {
+    transition: 0.5s all ease;
+    margin-top: 25px;
+    margin-top: 25px;
+}
+
+li:hover {
+    border-bottom: 4px solid #A20000;
+    margin-top: 56px;
+
+}
+
+.text {
+    float: left;
+    color: white;
+    font-size: 20px;
+    float: left;
+    background: #A20000;
+    width: 30px;
+    margin-left: 250px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.podval {
+    margin-bottom: 0px;
+    color: black;
+}
+
+.uslugi p {
+    color: #4A4A4A;
+    font-size: 70px;
+    margin-left: 52px;
+}
+
+.uslugi {
+    background: #A20000;
+    width: 103px;
+    height: 39px;
+    margin-top: 150px;
+}
+
+.logotipi {
+    border: #A20000 solid 10px;
+    margin-top: 140px;
+    padding-top: 123px;
+    padding-bottom: 123px;
+    padding-left: 40px;
+    width: 628px;
+}
+
+p3 {
+    text-transform: uppercase;
+    font-size: 167px;
+}
+
+p9 {
+    text-transform: uppercase;
+    font-size: 80px;
+    margin-top: 300px;
+}
+
+p6 {
+    text-transform: uppercase;
+    font-size: 132px;
+
+}
+p20 {
+    text-transform: uppercase;
+    font-size: 66px;
+
+}
+
+p5 {
+    color: black;
+    float: left;
+    font-size: 80px;
+    position: absolute;
+    margin-left: 87px;
+    text-align: right;
+
+}
+
+p10 {
+    color: white;
+    float: left;
+    font-size: 80px;
+    position: absolute;
+    margin-left: 660.5px;
+    text-align: right;
+    margin-top: 150px;
+}
+
+p7 {
+    color: white;
+    float: right;
+    font-size: 60px;
+    position: absolute;
+    margin-top: 300px;
+
+}p15 {
+    color: black;
+    float: right;
+    font-size: 60px;
+    position: absolute;
+    margin-top:280px;
+
+}p25 {
+    color: white;
+    float: right;
+    font-size: 60px;
+    position: absolute;
+    margin-top:200px;
+
+}
+
+.logotip2 {
+    border: white solid 10px;
+    margin-top: 140px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-left: 44px;
+    padding-right: 44px;
+    width: 628px;
+    margin-left: 973px;
+    color: white;
+}
+
+.logotip4 {
+    border: black solid 10px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-left: 44px;
+    padding-right: 44px;
+    width: 628px;
+    margin-left: 973px;
+    color: black;
+}
+.logotip24 {
+    border: white solid 10px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+padding-left: 28px;
+    width: 628px;
+    margin-left: 973px;
+    color: white;
+    margin-right: 32px;
+}
+
+.bg3 {
+    background: black;
+    opacity: 70%;
+
+}
+
+.bg12 {
+    background: white;
+    opacity: 85%;
+}
+.bg32 {
+    background: #A20000;
+    opacity: 85%;
+}
+
+.bg5 {
+    background: #A20000;
+    opacity: 90%;
+}
+.bg15 {
+    background: black;
+    opacity: 90%;
+}
+
+.bg1 {
+    background: url(img/02192269510389.5b84328a917cc.png) no-repeat top center / cover;
+    opacity: 100%;
+}
+
+.bg11 {
+    background: url(img/2.jpg) no-repeat center / cover;
+    opacity: 100%;
+}
+.bg31 {
+    background: url(img/14907113.png) no-repeat center / cover;
+    opacity: 100%;
+}
+
+.bg4 {
+    background: url(img/ykxwuT-MHxY.jpg )no-repeat center / cover;
+    opacity: 100%;
+}
+.bg14 {
+    background: url(img/adaptive_w_ru.jpg)no-repeat center / cover;
+    opacity: 100%;
+}
+
+.logotip3 {
+    border: white solid 10px;
+    padding-bottom: 21px;
+    padding-top: 21px;
+    padding-left: 31px;
+    padding-right: 31px;
+    width: 500px;
+    margin-left: 0;
+    color: white;
+}
+.logotip8 {
+    border: white solid 10px;
+
+    padding-bottom: 21px;
+    padding-top: 210px;
+    padding-left: 31px;
+    padding-right: 31px;
+    width: 500px;
+    height: 600px;
+    margin-left: 0;
+    color: white;
+}
+p40{
+    font-size: 28px;
+    text-align: center;
+    font-style: italic;
+}
+p41{
+    font-size: 28px;
+    text-align: center;
+    color:  #A20000;
+        font-style: italic;
+}
+.text40{
+    margin-left: 150px;
+    margin-top: 40px; margin-bottom: 40px;
+
+}
+.bannerbg{
+    opacity: 80%;
+    position: fixed;
+    top: 0px;
+    animation-name: show_header;
+    animation-duration: 1s;
+    z-index: 6;
+}
+@keyframes show_header{
+    0%{
+        opacity: 0;
+
+    }
+        100%{
+        opacity: 1;
+
+    }
+
+}
+.heading{
+    background: black;
+}
+heard{
+    position:flex;
+}
+
+p50{
+text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+    margin-left: 128px;
+    float: left;
+}p51{
+text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+    margin-left: 292px;
+    float: left;
+}
+.box2{
+    background: #A20000;
+    width: 32px;
+    height: 39px;
+    position: absolute;
+    margin-left: 255px;
+}.box3{
+    background: #A20000;
+    width: 32px;
+    height: 39px;
+    position: absolute;
+    margin-left: 600px;
+}.box4{
+    background: #A20000;
+    width: 32px;
+    height: 39px;
+    position: absolute;
+    margin-left: 1080px;
+}
